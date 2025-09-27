@@ -1,5 +1,5 @@
 ### Hi there, I'm metahead00 👋  
-#### 💻 Computer Engineering Student | 🛠️ Tinkerer | 🌱 Always Learning
+#### 💻 Computer Engineering Student | 🌱 Always Learning
 
 I'm a Computer Engineering student passionate about building things — whether it's a lab project, a university assignment, or something fun on the side.
 
