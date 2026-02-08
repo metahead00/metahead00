@@ -1,5 +1,5 @@
 ### Hi there, I'm metahead00 👋  
-#### 💻 Computer Engineering Student | 🌱 Always Learning
+#### 💻 Computer Engineering Student 
 
 I'm a Computer Engineering student passionate about building things — whether it's a lab project, a university assignment, or something fun on the side.
 
@@ -23,9 +23,8 @@ I'm a Computer Engineering student passionate about building things — whether 
 ---
 
 ### 📌 Featured Projects
-- 🎓 **University Assignments** – Projects and problem-solving during my coursework.
-- 🧪 **Lab Work** – Hands-on projects with microcontrollers, C/C++, STM32, and more.
-- 💡 **Experiments** – Side projects and prototypes for fun and learning.
+- 🎓 **University Assignments** – Projects during my coursework.
+- 🧪 **Lab Work** – Hands-on projects for machine learning and C/C++, STM32.
 
 ---
 
@@ -33,5 +32,3 @@ I'm a Computer Engineering student passionate about building things — whether 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melike-besparmak)
 
 ---
-
-_Thanks for stopping by! Feel free to check out my work and drop a star ⭐ if you like something._
